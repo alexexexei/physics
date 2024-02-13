@@ -1,2 +1,5 @@
 # ITMO physics course 
-null
+Mechanics and electromagnetism contributors:
+- Alexey Rumyantsev
+- Dmitrii Chebanenko
+- Pavel Ovchinnikov  
